@@ -1,4 +1,5 @@
-# 🤠 Ehsan Salehin
+# <picture>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f920/512.gif" alt="🤠" width="32" height="32"> Ehsan Salehin
 
 **Full-Stack Developer <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt="😃" width="15" height="15">**
 
