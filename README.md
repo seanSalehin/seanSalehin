@@ -1,5 +1,5 @@
 # <picture>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f920/512.gif" alt="🤠" width="18" height="18"> Ehsan Salehin
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f920/512.gif" alt="🤠" width="15" height="15"> Ehsan Salehin
 
 **Full-Stack Developer <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="14" height="14">**
 
