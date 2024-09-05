@@ -1,7 +1,7 @@
 # <picture>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f920/512.gif" alt="🤠" width="15" height="15"> Ehsan Salehin
 
-**Full-Stack Web Developer <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="14" height="14">**
+**Full Stack Web Developer <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="14" height="14">**
 
 On a mission to build my version of the digital world, one project at a time. My projects are born in the depths of imagination and raised in the crucible of real-world challenges<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="14" height="14">.
 
