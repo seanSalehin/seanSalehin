@@ -10,7 +10,7 @@ On a mission to build my version of the digital world, one project at a time. My
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-  Development: 
+  <div style="font-size:20px">Development:</div> 
   </br>
     </br>
     <img alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -65,7 +65,6 @@ On a mission to build my version of the digital world, one project at a time. My
         </br>
   Development Tools:  
     </br>
-      </br>
       <img alt="vs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
     <img alt="vs code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
     <img alt="pycharm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
