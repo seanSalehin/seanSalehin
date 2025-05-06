@@ -42,6 +42,7 @@ On a mission to build my version of the digital world, one project at a time. My
 ### 🗄️ Database Management
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/-SQLServer-512BD4?style=flat-square&logo=sqlserver&logoColor=white)
 
 ### 🛠️ Development Tools
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
