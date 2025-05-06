@@ -31,6 +31,7 @@ On a mission to build my version of the digital world, one project at a time. My
 ### 🚢 Deployment
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-E34F26?style=flat-square&logo=aws&logoColor=white)
 
 ### 🎨 Design
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
