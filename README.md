@@ -10,7 +10,7 @@ On a mission to build my version of the digital world, one project at a time. My
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-### 💻🎨🧪🗄️ Development | Design | Testing | Database Management
+### 💻 Development |🎨 Design | 🧪 Testing | 🗄️ Database Management
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -30,7 +30,7 @@ On a mission to build my version of the digital world, one project at a time. My
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/-SQLServer-512BD4?style=flat-square&logo=sqlserver&logoColor=white)
 
-### 🛠🚢 Maintenance | Version Control | Deployment
+###  🛠 Version Control | 🚢 Deployment
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
