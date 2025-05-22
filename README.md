@@ -7,9 +7,6 @@ My projects are born in the depths of imagination and raised in the crucible of 
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="16" height="16"> Languages and Tools :
 
-
-### ⚙️ Languages & Tools
-
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
