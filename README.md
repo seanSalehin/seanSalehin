@@ -10,7 +10,7 @@ On a mission to build my version of the digital world, one project at a time. My
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-### 💻 Development |🎨 Design | 🧪 Testing | 🗄️ Database Management | 🛠 Version Control | 🚢 Deployment
+### 💻 Development |🎨 Design | 🧪 Testing | 🗄️ Database | 🛠 Version Control | 🚢 Deployment
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -35,7 +35,6 @@ On a mission to build my version of the digital world, one project at a time. My
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-E34F26?style=flat-square&logo=aws&logoColor=white)
 ###  
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
