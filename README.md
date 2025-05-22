@@ -1,7 +1,7 @@
 # <picture>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.gif" alt="🤠" width="15" height="15"> Sean Salehin
 
-**Full Stack Web Developer <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="14" height="14">**
+**Software Developer <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="14" height="14">**
 
 On a mission to build my version of the digital world, one project at a time. My projects are born in the depths of imagination and raised in the crucible of real-world challenges<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="14" height="14">.
 
@@ -36,11 +36,6 @@ On a mission to build my version of the digital world, one project at a time. My
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-E34F26?style=flat-square&logo=aws&logoColor=white)
-
-### 🛠️ Development Tools
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
