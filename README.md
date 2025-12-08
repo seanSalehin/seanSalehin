@@ -64,14 +64,12 @@ I'm a passionate developer who craft solutions that span from compiler internals
 ### 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sean-salehin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-  <a href="mailto:sean.salehin@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335?logo=gmail&logoColor=white&style=for-the-badge"></a>
-  <a href="https://seansalehin.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF69B4?logo=vercel&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/seansalehin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="mailto:sean.salehin@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335?logo=gmail&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ---
 
-<!-- Leave snake animation untouched -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
