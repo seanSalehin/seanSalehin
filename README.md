@@ -9,21 +9,23 @@ My projects are born in the depths of imagination and raised in the crucible of 
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
 
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![C# 💜](https://img.shields.io/badge/C%23-%23A67EFF?logo=c-sharp&logoColor=white&style=for-the-badge)
+![.NET 🔷](https://img.shields.io/badge/.NET-%238A4FFF?logo=dotnet&logoColor=white&style=for-the-badge)
+![TypeScript 🌀](https://img.shields.io/badge/TypeScript-%23468FEA?logo=typescript&logoColor=white&style=for-the-badge)
+![JavaScript 🌞](https://img.shields.io/badge/JavaScript-%23FFE679?logo=javascript&logoColor=000&style=for-the-badge)
+![React ⚛️](https://img.shields.io/badge/React-%2390E0EF?logo=react&logoColor=000&style=for-the-badge)
+![Node.js 🌿](https://img.shields.io/badge/Node.js-%23A8E6A1?logo=nodedotjs&logoColor=333&style=for-the-badge)
+![Python 🐍](https://img.shields.io/badge/Python-%2370A1D7?logo=python&logoColor=white&style=for-the-badge)
+![HTML5 🧡](https://img.shields.io/badge/HTML5-%23FF8C5A?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3 💙](https://img.shields.io/badge/CSS3-%2355A4F2?logo=css3&logoColor=white&style=for-the-badge)
+![AWS ☁️](https://img.shields.io/badge/AWS-%23232F3E?logo=amazon-aws&logoColor=FFBF47&style=for-the-badge)
+![Docker 🐳](https://img.shields.io/badge/Docker-%238CD1E6?logo=docker&logoColor=white&style=for-the-badge)
+![Git 🧡](https://img.shields.io/badge/Git-%23F77B72?logo=git&logoColor=white&style=for-the-badge)
+![MongoDB 🌿](https://img.shields.io/badge/MongoDB-%23A3E47D?logo=mongodb&logoColor=333&style=for-the-badge)
+![SQL Server ❤️](https://img.shields.io/badge/SQL_Server-%23D76C70?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
+![Figma 🎨](https://img.shields.io/badge/Figma-%23F57F54?logo=figma&logoColor=white&style=for-the-badge)
+![x86-64 Assembly ⚙️](https://img.shields.io/badge/x86--64_Assembly-%234F4F4F?logo=gear&logoColor=white&style=for-the-badge)
+
 
 </div>
 
