@@ -1,14 +1,32 @@
-# <picture>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.gif" alt="🤠" width="15" height="15"> Sean Salehin
+<h1 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.gif" width="28" height="28" alt="🤠">
+  &nbsp;Hey, I'm <span style="color:#a67eff;">Sean Salehin</span>
+</h1>
 
-**Software Developer <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="14" height="14">**
+<h3 align="center">
+  💻 Software Developer &nbsp;•&nbsp; 🌎 Based in Canada &nbsp;•&nbsp; 🚀 Always Building
+</h3>
 
-My projects are born in the depths of imagination and raised in the crucible of real-world challenges<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="14" height="14">.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Turning+ideas+into+code✨;Building+real-world+projects🌱;Exploring+.NET,+React,+and+Clouds☁️&center=true&width=500&height=45">
+</p>
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="16" height="16"> Languages and Tools :
+---
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="20" height="20"> About Me
 
+I'm a passionate developer who craft solutions that span from compiler internals to cloud infrastructure, bridging low-level precision with scalable, high-level design.
+
+<br> 🧩 Currently focused on **C# / .NET**, **React**, and **TypeScript** ecosystems.  
+<br> ☁️ Exploring **AWS**, **Docker**, and scalable solutions.  
+<br> 🌱 Always learning, always coding.
+
+---
+
+### ⚙️ Languages & Tools
+
+<p align="center" style="display:flex;flex-wrap:wrap;gap:8px;justify-content:center;">
+  
 ![C# 💜](https://img.shields.io/badge/C%23-%23A67EFF?logo=c-sharp&logoColor=white&style=for-the-badge)
 ![.NET 🔷](https://img.shields.io/badge/.NET-%238A4FFF?logo=dotnet&logoColor=white&style=for-the-badge)
 ![TypeScript 🌀](https://img.shields.io/badge/TypeScript-%23468FEA?logo=typescript&logoColor=white&style=for-the-badge)
@@ -18,17 +36,42 @@ My projects are born in the depths of imagination and raised in the crucible of 
 ![Python 🐍](https://img.shields.io/badge/Python-%2370A1D7?logo=python&logoColor=white&style=for-the-badge)
 ![HTML5 🧡](https://img.shields.io/badge/HTML5-%23FF8C5A?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3 💙](https://img.shields.io/badge/CSS3-%2355A4F2?logo=css3&logoColor=white&style=for-the-badge)
+![MongoDB 🌿](https://img.shields.io/badge/MongoDB-%23A3E47D?logo=mongodb&logoColor=333&style=for-the-badge)
+![SQL Server ❤️](https://img.shields.io/badge/SQL_Server-%23D76C70?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
 ![AWS ☁️](https://img.shields.io/badge/AWS-%23232F3E?logo=amazon-aws&logoColor=FFBF47&style=for-the-badge)
 ![Docker 🐳](https://img.shields.io/badge/Docker-%238CD1E6?logo=docker&logoColor=white&style=for-the-badge)
 ![Git 🧡](https://img.shields.io/badge/Git-%23F77B72?logo=git&logoColor=white&style=for-the-badge)
-![MongoDB 🌿](https://img.shields.io/badge/MongoDB-%23A3E47D?logo=mongodb&logoColor=333&style=for-the-badge)
-![SQL Server ❤️](https://img.shields.io/badge/SQL_Server-%23D76C70?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
 ![Figma 🎨](https://img.shields.io/badge/Figma-%23F57F54?logo=figma&logoColor=white&style=for-the-badge)
 ![x86-64 Assembly ⚙️](https://img.shields.io/badge/x86--64_Assembly-%234F4F4F?logo=gear&logoColor=white&style=for-the-badge)
 
+</p>
 
-</div>
+---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeanSalehin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A4FFF&icon_color=70A1D7" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeanSalehin&theme=tokyonight&hide_border=true&background=0d1117&ring=8A4FFF&fire=70A1D7" height="160">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeanSalehin&theme=react-dark&bg_color=0d1117&hide_border=true&line=70A1D7&point=A67EFF&area=true&radius=10">
+</p>
+
+---
+
+### 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sean-salehin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="mailto:sean.salehin@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="https://seansalehin.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF69B4?logo=vercel&logoColor=white&style=for-the-badge"></a>
+</p>
+
+---
+
+<!-- Leave snake animation untouched -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
