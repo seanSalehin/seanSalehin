@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  💻 Software Developer &nbsp;•&nbsp; 🌎 Based in Canada &nbsp;•&nbsp; 🚀 Always Building
+  💻 Software Developer &nbsp;•&nbsp; 🌎 Based in Canada &nbsp;•&nbsp; 👀 Always Building
 </h3>
 
 <p align="center">
