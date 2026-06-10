@@ -15,10 +15,7 @@
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="20" height="20"> About Me
 
-<br> I like building things at different levels of software, from compilers and low-level systems to full-stack apps and cloud infrastructure.
-<br>  Currently focused on **C# / .NET**, **React**, and **TypeScript** ecosystems.  
-<br>  Exploring **AWS**, **Docker**, and scalable solutions.  
-<br>  Always learning, always coding.
+<p align="center"> <b>Software Developer</b> building across different layers of software<br/> from low-level systems and compilers to full-stack apps and cloud infrastructure. </p> <p align="center"> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> </p> --- <p align="center"> I like projects that make me understand how things really work —<br/> languages, APIs, tools, engines, backend systems, and real applications. </p>
 
 ---
 
