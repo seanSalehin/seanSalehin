@@ -13,7 +13,7 @@
 
 ---
 
-<h2 align="center">About Me</h2> <p align="center"> <b>Software Developer</b> building across different layers of software<br/> from low-level systems and compilers to full-stack apps and cloud infrastructure. </p> <p align="center"> </p> --- <p align="center"> I like projects that make me understand how things really work —<br/> languages, APIs, tools, engines, backend systems, and real applications. </p>
+<h2 align="center">About Me</h2> <p align="center"> <b>Software Developer</b> building across different layers of software<br/> from low-level systems and compilers to full-stack apps and cloud infrastructure. </p> <p align="center"> </p> <p align="center"> I like projects that make me understand how things really work <br/> languages, APIs, tools, engines, backend systems, and real applications. </p>
 
 ---
 
