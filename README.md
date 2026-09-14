@@ -42,14 +42,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeanSalehin&theme=react-dark&bg_color=0d1117&hide_border=true&line=70A1D7&point=A67EFF&area=true&radius=10">
-</p>
-
----
-
 ### 🌍 Connect With Me
 
 <p align="center">
